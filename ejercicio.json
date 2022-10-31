@@ -2,12 +2,22 @@
     {
           "Nombre": "Esteban",
       "Apellido": "Espinosa",
+        "Carrera": "Tecnologo en software",
+        "Semestre": 4,
       "Edad": 23
     },
 {
     "Nombre": "Steven",
     "Apellido": "Salazar",
+    "Carrera": "Tecnologo en software",
+    "Semestre": 4,
     "Edad": 21
 }
-
+{
+    "Nombre": "Felipe",
+    "Apellido": "Roman
+    "Carrera": "Tecnologo en software",
+    "Semestre": 4,
+    "Edad": 19
+}
 ]
