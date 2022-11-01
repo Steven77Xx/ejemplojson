@@ -19,5 +19,19 @@
     "Carrera": "Tecnologo en software",
     "Semestre": 4,
     "Edad": 19
+},
+    {
+    "Nombre": "Mario",
+    "Apellido": "Bros",
+    "Carrera": "Tecnologo en mecanica",
+    "Semestre": 2,
+    "Edad": 18
+},
+    {
+    "Nombre": "luigui",
+    "Apellido": "Bros",
+    "Carrera": "Tecnologo en mecatronica",
+    "Semestre": 6,
+    "Edad": 23
 }
 ]
